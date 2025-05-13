@@ -1,0 +1,34 @@
+﻿  lab2.cpp
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(73,15): warning C4244: =: преобразование "_Ty2" в "size_t", возможна потеря данных
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(73,15): warning C4244:         with
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(73,15): warning C4244:         [
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(73,15): warning C4244:             _Ty2=double
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(73,15): warning C4244:         ]
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(164,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(164,17): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(209,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(214,30): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(214,30): warning C4244:         with
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(214,30): warning C4244:         [
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(214,30): warning C4244:             _Ty=int
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(214,30): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244: инициализация: преобразование "size_t" в "_Ty2", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244:             _Ty2=double
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244:         ]
+  (компиляция исходного файла "lab2.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(63,25):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<double,double>::pair<double,size_t&,0>(_Other1 &&,_Other2) noexcept"
+          with
+          [
+              _Other1=double,
+              _Other2=size_t &
+          ]
+  		A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(63,23):
+  		см. первую ссылку на "std::pair<double,double>::pair" в "calculate_Ts"
+  
+A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\lab2\lab2.cpp(91,1): warning C4715: calculate_Ts: значение возвращается не при всех путях выполнения
+  lab2.vcxproj -> A:\ИАТЭ НИЯУ МИФИ\3 курс\1 сем\МСВТ\Лабы\Лаба 2\lab2\x64\Debug\lab2.exe
